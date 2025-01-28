@@ -8,4 +8,9 @@ The purpose of this analysis is to create a dashboard in PowerBI for call canter
  
 ## Task 2 - Customer Retention
 This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. 
+
 It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
+
+
+## Task 3 - Diversity & Inclusion
+Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action
